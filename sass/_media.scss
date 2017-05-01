@@ -1,0 +1,19 @@
+@media  #{$mobileSmall} {
+  //@import "media/iPhone/phone-small-styles";
+}
+
+@media  #{$mobile} {
+  //@import "media/phone/phone-styles";
+}
+
+@media  #{$tablet} {
+  //@import "media/tablet/tablet-styles";
+}
+
+@media  #{$desktop} {
+  //@import "media/wide/desktop-styles";
+}
+
+@media  #{$desk-espesific} {
+  //@import "media/wide/desk-espesific-styles";
+}
